@@ -11,7 +11,6 @@
 - Celery 기반 모델 서빙
 - 분석 데이터 모니터링을 위한 API 구현
 
-[API 명세서](https://www.notion.so/API-2b18be0c61c3464e996b991676b87c82)
 
 ### Install
 
